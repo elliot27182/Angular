@@ -1,9 +1,9 @@
 .home-container {
-    border: 3px solid blue; /* Blue border */
+    border: 3px solid blue; 
     background-color: white;
-    color: blue; /* For the "Home Component" text color */
-    padding: 20px; /* Bigger padding makes this box bigger */
+    color: blue; 
+    padding: 20px; 
     margin-top: 10px;
-    height: 100px; /* Height of the box */
+    height: 100px; 
   }
   
